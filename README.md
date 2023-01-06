@@ -1,6 +1,6 @@
 # matplotlib-viz
 <p align="justify">
-This repository is my notes about dat avisualization using the matplotlib library.
+This repository is my notes about data visualization using the matplotlib library.
 </p>
 
 ### Methods Used
